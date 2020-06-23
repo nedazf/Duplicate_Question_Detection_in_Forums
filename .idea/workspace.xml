@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cd847ef-76c3-4b40-8f7f-0ba7f8617a8d" name="Default Changelist" comment="update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cmHuS6O5cmjJuKKKV0e18xNlcT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd847ef-76c3-4b40-8f7f-0ba7f8617a8d" name="Default Changelist" comment="" />
+      <created>1591127070948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591127070948</updated>
+    </task>
+    <task id="LOCAL-00001" summary="visualization">
+      <created>1591128370107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591128370107</updated>
+    </task>
+    <task id="LOCAL-00002" summary="visualization">
+      <created>1591129114562</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591129114562</updated>
+    </task>
+    <task id="LOCAL-00003" summary="preprocessing">
+      <created>1591129532055</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591129532055</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Visualization">
+      <created>1591129560882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591129560882</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Visualization">
+      <created>1591129624739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591129624739</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Visualization">
+      <created>1592869818285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1592869818285</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updateee">
+      <created>1592871487136</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592871487136</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1592871577278</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1592871577278</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="visualization" />
+    <MESSAGE value="preprocessing" />
+    <MESSAGE value="Visualization" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="updateee" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591148395279">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="249" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.828@0.23.1440.828" timestamp="1591148395279" />
+    <state x="273" y="23" width="1024" height="828" key="SettingsEditor" timestamp="1591151384891">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="273" y="23" width="1024" height="828" key="SettingsEditor/0.23.1440.828@0.23.1440.828" timestamp="1591151384891" />
+    <state x="283" y="177" key="Vcs.Push.Dialog.v2" timestamp="1592871490255">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="283" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1591129116328" />
+    <state x="283" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1591129626325" />
+    <state x="283" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1592871490255" />
+    <state x="511" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592871666187">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="511" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.830@0.23.1440.830" timestamp="1592871666187" />
+    <state x="596" y="113" width="598" height="735" key="find.popup" timestamp="1591127729401">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="596" y="113" width="598" height="735" key="find.popup/0.23.1440.825@0.23.1440.825" timestamp="1591127729401" />
+  </component>
+</project>
